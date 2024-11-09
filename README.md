@@ -7,7 +7,9 @@
 
 - 📄 Know about my experiences [in/tram-nguyen-01b6a5149](in/tram-nguyen-01b6a5149)
 
-![be nerdy](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif) 
+- ⚡ Fun fact **I do pingpong, and play piano in my free time** 
+
+                                                          ![be nerdy](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
