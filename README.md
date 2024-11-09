@@ -7,7 +7,8 @@
 
 - 📄 Know about my experiences [in/tram-nguyen-01b6a5149](in/tram-nguyen-01b6a5149)
 
-<iframe src="https://giphy.com/embed/SvckSy7fFviqrq8ClF" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/talk-dirty-to-me-similarweb-nerdy-SvckSy7fFviqrq8ClF">via GIPHY</a></p>
+https://giphy.com/embed/SvckSy7fFviqrq8ClF
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
