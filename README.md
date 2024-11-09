@@ -9,7 +9,9 @@
 
 - ⚡ Fun fact **I do pingpong, and play piano in my free time** 
 
-                                                          ![be nerdy](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif) 
+<p align="center">
+  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" alt="be nerdy" width="300" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
