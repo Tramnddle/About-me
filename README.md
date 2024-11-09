@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tramnguyenngoc0410@gmail.com**
 
-- 📄 Know about my experiences [in/tram-nguyen-01b6a5149](in/tram-nguyen-01b6a5149)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tram-nguyen-01b6a5149)
 
 - ⚡ Fun fact **I do pingpong, and play piano in my free time** 
 
