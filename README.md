@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tram-nguyen-01b6a5149)
 
-- ⚡ Fun fact **I do pingpong, and play piano in my free time** 
+- ⚡ Fun fact **I do pingpong, and play piano in my free time. You know what, I am a keen fan of Manchester United since 2001-you do the math :D ** 
 
 <p align="center">
   <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" alt="be nerdy" width="300" />
